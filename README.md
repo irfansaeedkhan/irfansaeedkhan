@@ -22,6 +22,41 @@ I build polished, production-ready web products with **React, Next.js, TypeScrip
 - Interested in remote frontend and full-stack opportunities
 - Based in Islamabad, Pakistan
 
+## Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,postgres,docker,git,github,vercel,figma&perline=13)](https://skillicons.dev)
+
+</div>
+
+**Frontend:** React, Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, GSAP, Framer Motion, Material UI, Ant Design, SCSS
+
+**State and data:** TanStack Query, SWR, Zustand, Redux Toolkit, Axios
+
+**Backend and database:** Node.js, Hono, Express, PostgreSQL, Drizzle ORM, Better Auth
+
+**Quality and delivery:** Vitest, Testing Library, Playwright, Docker, GitHub Actions, Vercel
+
+## What I care about
+
+```text
+Clean architecture      Thoughtful UX
+Fast performance        Responsive execution
+Maintainable code       Products that solve real problems
+```
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfansaeedkhan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Irfan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansaeedkhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=irfansaeedkhan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
 ## Featured work
 
 <table>
@@ -74,41 +109,6 @@ A high-end animated landing experience focused on strong visual storytelling, sm
 </td>
 </tr>
 </table>
-
-## Tech stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,express,postgres,docker,git,github,vercel,figma&perline=13)](https://skillicons.dev)
-
-</div>
-
-**Frontend:** React, Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, GSAP, Framer Motion, Material UI, Ant Design, SCSS
-
-**State and data:** TanStack Query, SWR, Zustand, Redux Toolkit, Axios
-
-**Backend and database:** Node.js, Hono, Express, PostgreSQL, Drizzle ORM, Better Auth
-
-**Quality and delivery:** Vitest, Testing Library, Playwright, Docker, GitHub Actions, Vercel
-
-## What I care about
-
-```text
-Clean architecture      Thoughtful UX
-Fast performance        Responsive execution
-Maintainable code       Products that solve real problems
-```
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=irfansaeedkhan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Irfan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfansaeedkhan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=irfansaeedkhan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
 
 ## Let's build something useful
 
