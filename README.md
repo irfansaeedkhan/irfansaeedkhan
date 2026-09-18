@@ -57,6 +57,16 @@ Maintainable code       Products that solve real problems
 
 </div>
 
+## Let's build something useful
+
+I enjoy turning complex product requirements into clean, usable interfaces and reliable systems. If you are building a SaaS product, dashboard, marketing site, or frontend-heavy application, feel free to reach out.
+
+<div align="center">
+
+**[LinkedIn](https://www.linkedin.com/in/irfansaeedkhan) • [X](https://x.com/irfanBuildsSaaS) • [Email](mailto:irfansaeedkhan@protonmail.com)**
+
+</div>
+
 ## Featured work
 
 <table>
@@ -109,13 +119,3 @@ A high-end animated landing experience focused on strong visual storytelling, sm
 </td>
 </tr>
 </table>
-
-## Let's build something useful
-
-I enjoy turning complex product requirements into clean, usable interfaces and reliable systems. If you are building a SaaS product, dashboard, marketing site, or frontend-heavy application, feel free to reach out.
-
-<div align="center">
-
-**[LinkedIn](https://www.linkedin.com/in/irfansaeedkhan) • [X](https://x.com/irfanBuildsSaaS) • [Email](mailto:irfansaeedkhan@protonmail.com)**
-
-</div>
