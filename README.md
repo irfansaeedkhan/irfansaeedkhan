@@ -2,7 +2,7 @@
 
 # Hi, I'm Irfan Saeed Khan 👋
 
-### Frontend Developer • SaaS Builder • Growing into Full-Stack + AI
+### Product developer helping founders design, build and launch SaaS products | Next.js, full-stack, technical SEO and AI automation
 
 I build polished, production-ready web products with **React, Next.js, TypeScript, and modern UI systems**.
 
