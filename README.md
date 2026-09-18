@@ -4,7 +4,7 @@
 
 ### Product developer helping founders design, build and launch SaaS products | Next.js, full-stack, technical SEO and AI automation
 
-I build polished, production-ready web products with **React, Next.js, TypeScript, and modern UI systems**.
+I help founders turn ideas into launch-ready digital products, from product UI and frontend architecture to full-stack development, technical SEO, deployment, and AI automation.
 
 [![Portfolio](https://img.shields.io/badge/View_Live_Projects-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](#featured-work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfansaeedkhan)
