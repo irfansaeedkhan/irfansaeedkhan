@@ -8,7 +8,6 @@ I help founders turn ideas into launch-ready digital products, from product UI a
 
 [![Portfolio](https://img.shields.io/badge/View_Live_Projects-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](#featured-work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfansaeedkhan)
-[![X](https://img.shields.io/badge/X-@irfanBuildsSaaS-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/irfanBuildsSaaS)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:irfansaeedkhan@protonmail.com)
 
 </div>
@@ -63,7 +62,7 @@ I enjoy turning complex product requirements into clean, usable interfaces and r
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/irfansaeedkhan) • [X](https://x.com/irfanBuildsSaaS) • [Email](mailto:irfansaeedkhan@protonmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/irfansaeedkhan) • [Email](mailto:irfansaeedkhan@protonmail.com)**
 
 </div>
 
