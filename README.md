@@ -14,9 +14,9 @@ I help founders turn ideas into launch-ready digital products, from product UI a
 
 ## About me
 
-- Frontend developer with **5 years of professional experience**
+- Frontend developer with **6 years of professional experience**
 - Strong focus on responsive interfaces, dashboards, animations, performance, and product UX
-- Building **DayMirror**, a SaaS product for hourly self-audit, planning, notes, and AI-assisted coaching
+- Building **Solrit**, a SaaS product for hourly self-audit, planning, notes, and AI-assisted coaching
 - Expanding into backend systems with Node.js, Hono, PostgreSQL, Drizzle ORM, and Better Auth
 - Interested in remote frontend and full-stack opportunities
 - Based in Islamabad, Pakistan
@@ -83,7 +83,7 @@ A polished Web3 product experience with a cinematic landing page and a fully int
 </td>
 <td width="50%" valign="top">
 
-### DayMirror
+### Solrit
 
 A productivity SaaS that helps people see where their time actually goes through hourly reflection, task planning, notes, recurring schedules, work sessions, and an AI coach.
 
